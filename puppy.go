@@ -1,4 +1,4 @@
-package pupp
+package puppy
 
 func Bark() string {
 	return "first go"
